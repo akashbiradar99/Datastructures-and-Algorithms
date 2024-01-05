@@ -9,9 +9,6 @@ This repository is a dedicated space for learning, practicing, and mastering dat
 - [About](#about)
 - [Topics Covered](#topics-covered)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [Resources](#resources)
-- [License](#license)
 
 ## About
 
