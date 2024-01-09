@@ -31,7 +31,7 @@ public class ElectricityBillCalculator {
     }
 
     private static double calculateElectricityBill(int units) {
-        double bill = 0.0;
+        double bill;
 
         if (units <= 50) {
             // For first 50 units Rs. 0.50/unit
