@@ -25,6 +25,11 @@ public class ArithmeticOperations {
         int product = num1 * num2;
         System.out.println("Product of two numbers is: " + product);
 
+        // Check if the second number is not zero before division
+        if (num2 ==0){
+            System.out.println("Cannot divide by zero");
+            return;
+        }
         // Divide two numbers
         int quotient = num1 / num2;
         System.out.println("Quotient of two numbers is: " + quotient);
