@@ -2,7 +2,7 @@ package com.dsa.control.statements;
 
 import java.util.Scanner;
 
-public class CheckPrimeNumner {
+public class CheckPrimeNumber {
     public static void main(String[] args) {
         // Write a program to find if given number is prime or not.
         Scanner scanner = new Scanner(System.in);
