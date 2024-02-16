@@ -1,4 +1,4 @@
-i# MindsBehindCode_DS
+# MindsBehindCode_DS
 
 Welcome to MindsBehindCode_DS! 🚀
 Unleashing the power of logical thinking with data structures and algorithms. 
@@ -39,4 +39,4 @@ To get started with MindsBehindCode_DS, follow these steps:
 
 3. Contribute by adding your own solutions, explanations, or additional topics.
 
-Happy coding!🚀
+Happy coding! 🚀
