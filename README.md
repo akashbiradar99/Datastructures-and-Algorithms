@@ -37,6 +37,6 @@ To get started with MindsBehindCode_DS, follow these steps:
 
 2. Explore the folders and files to find code examples, challenges, and educational content.
 
-3. Contribute by adding your own solutions, explanations, or additional topics. 
+3. Contribute by adding your own solutions, explanations, or additional topics.
 
 Happy coding! 🚀
